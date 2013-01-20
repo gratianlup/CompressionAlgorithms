@@ -1,4 +1,5 @@
 Compression Algorithms
+======================
 
 Simple and elegant implementations of compression algorithms written in C++.  
 Includes Huffman, LZ77 and LZw (implemented using a trie data structure).
